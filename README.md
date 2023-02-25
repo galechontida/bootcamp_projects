@@ -5,7 +5,7 @@
 I conducted the following work during this very intensive four month `DataRockie bootcamp`:
 
 ## Spreadsheets
-- [Dynamic Query, Converting Date, ID Card Paerser]() 
+- [Dynamic Query, Converting Date, ID Card Paerser](https://github.com/galechontida/bootcamp_projects/tree/main/Spreadsheets) 
 
 ## SQL Database
   - [Small Restaurant](https://github.com/galechontida/bootcamp_projects/tree/main/SQL) 
@@ -13,9 +13,7 @@ I conducted the following work during this very intensive four month `DataRockie
 ## R Programming
   - [Pizza Restaurant Chatbot](https://github.com/galechontida/bootcamp_projects/tree/main/R) 
   - [Pao Ying Chub](https://github.com/galechontida/bootcamp_projects/tree/main/R)
-   
-## Data Transformation
-  - [Flight Data Set Analysis]() 
+
  
 
 
