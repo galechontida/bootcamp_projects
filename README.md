@@ -5,9 +5,7 @@
 I conducted the following work during this very intensive four month `DataRockie bootcamp`:
 
 ## Spreadsheets
-- [Dynamic Query]() 
-- [Converting Date]() 
-- [ID Card Parser]() 
+- [Dynamic Query, Converting Date, ID Card Paerser]() 
 
 ## SQL Database
   - [Small Restaurant](https://github.com/galechontida/bootcamp_projects/tree/main/SQL) 
