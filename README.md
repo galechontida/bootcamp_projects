@@ -2,7 +2,7 @@
 
 **Data Science bootcamp with AdToy from [DataRockie](https://datarockie.com/)**
 
-I conducte the following work during this very intensive four month `DataRockie bootcamp`:
+I conducted the following work during this very intensive four month `DataRockie bootcamp`:
 
 ## Spreadsheets
 - [Dynamic Query]() 
@@ -10,11 +10,11 @@ I conducte the following work during this very intensive four month `DataRockie 
 - [ID Card Parser]() 
 
 ## SQL Database
-  - [Small Restaurant]() 
+  - [Small Restaurant](https://github.com/galechontida/bootcamp_projects/tree/main/SQL) 
   
 ## R Programming
-  - [Pizza Restaurant Chatobot]() 
-  - [Pao Ying Chub]()
+  - [Pizza Restaurant Chatbot](https://github.com/galechontida/bootcamp_projects/tree/main/R) 
+  - [Pao Ying Chub](https://github.com/galechontida/bootcamp_projects/tree/main/R)
    
 ## Data Transformation
   - [Flight Data Set Analysis]() 
