@@ -13,8 +13,8 @@ I conducte the following work during this very intensive four month `DataRockie 
   - [Small Restaurant]() 
   
 ## R Programming
-  - [x] [Pizza Restaurant Chatobot]() 
-  - [x] [Pao Ying Chub]()
+  - [Pizza Restaurant Chatobot]() 
+  - [Pao Ying Chub]()
    
 ## Data Transformation
   - [Flight Data Set Analysis]() 
